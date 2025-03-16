@@ -56,11 +56,12 @@ ALWAYS_BCC = 'jturney@sourceware.org'
 # membership, so they can do whatever they like directly, anyhow)
 TRUSTEDMAINT = '/'.join([
     'Achim Gratz',
-    'Corinna Vinschen',
     'Brian Inglis',
+    'Corinna Vinschen',
     'Jon Turney',
     'Ken Brown',
     'Marco Atzeri',
+    'Takashi Yano',
 ])
 
 # architectures we support
